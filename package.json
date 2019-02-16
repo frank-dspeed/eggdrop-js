@@ -27,7 +27,7 @@
   "dependencies": {
     "pkgconfig": "3.0.0",
     "optimist": "0.6.1",
-    "winston": "~3.0.0-rc2"
+    "winston": "~3.2.1"
   },
   "devDependencies": {
     "should": "~11.2.0",

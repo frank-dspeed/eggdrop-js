@@ -31,7 +31,7 @@
   },
   "devDependencies": {
     "should": "~11.2.0",
-    "underscore": "*",
+    "underscore": ">=1.10.1",
     "mocha": "*"
   },  
   "licenses": {

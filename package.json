@@ -32,7 +32,7 @@
   "devDependencies": {
     "should": "~11.2.0",
     "underscore": "*",
-    "mocha": "*"
+    "mocha": "7.1.1"
   },  
   "licenses": {
     "type": "UNLICENSE",
